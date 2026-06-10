@@ -1,0 +1,11 @@
+date,order_id,product,category,region,price,quantity,discount
+2024-01-03,1001,Notebook,Electronics,North,850.0,2,0.05
+2024-01-08,1002,Mouse,Electronics,South,25.0,10,0.0
+2024-01-15,1003,Chair,Office,North,120.0,4,0.1
+2024-02-02,1004,Notebook,Electronics,East,850.0,1,0.0
+2024-02-05,1005,Desk,Office,West,300.0,2,0.08
+2024-02-18,1006,Headphones,Electronics,South,75.0,6,0.0
+2024-03-04,1007,Lamp,Office,North,40.0,12,0.05
+2024-03-10,1008,Mouse,Electronics,West,25.0,25,0.12
+2024-03-20,1009,Chair,Office,East,120.0,3,0.0
+2024-04-01,1010,Monitor,Electronics,North,220.0,5,0.07
